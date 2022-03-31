@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0fEa5gXMG7aJ7eZgRV60t0KS4TBWZuzVEFNCUCvPmEPU8aSh6x8s12y15ZgSpqE1t8hkOfwZT20R16j7cgOAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marszal\\source\\repos\\DateOfDay\\DateofDay.Core\\DateofDay.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marszal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marszal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
